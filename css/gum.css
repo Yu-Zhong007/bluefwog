@@ -1506,7 +1506,7 @@ textarea.w-select {
 }
 
 :root {
-  --black: #1f2024;
+  --black: #080d22;
   --white: white;
   --color: #00e770;
 }
@@ -2037,7 +2037,7 @@ li {
 }
 
 .footer-section {
-  background-color: var(--black);
+  background-color: #080d22;
   color: #fff;
   text-align: center;
   flex-direction: column;
